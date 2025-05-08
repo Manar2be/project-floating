@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(255, 226, 246);
+    
+}
+.try {
+    padding: 10px;
+    background-color: rgb(250, 130, 232);
+    text-align: center;
+    margin: 10px;
+    float: right;
+    border-radius: 80px;
+    
+}
+img {border-radius: 100%;
+    border-color: rgb(185, 0, 123);
+border-style: solid;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    margin: 100px;
+}
+.try h1 {
+    font-size: 150%; color: aliceblue;
+ }
+.try p {
+ font-size: 10px
+}
+h1 {text-align: center; 
+font-size: 50px;
+ font-family: "Parisienne", cursive;
+    font-weight: 800;
+    font-style: normal;}
+   
+  
